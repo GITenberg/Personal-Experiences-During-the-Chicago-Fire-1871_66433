@@ -1,11 +1,16 @@
 _repo: Personal-Experiences-During-the-Chicago-Fire-1871_66433
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66433-h/images/cover.jpg
 creator:
   author:
     agent_name: Loesch, Frank J.
     gutenberg_agent_id: '53811'
     url: http://www.gutenberg.org/2009/agents/53811
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66433#Personal-Experiences-During-the-Chicago-Fire-1871
 gutenberg_issued: '2021-10-01'
 identifiers:
   gutenberg: '66433'
